@@ -28,3 +28,6 @@ Network Enginnering & Aerospace Engineering at 📌UPC
 <img align="left" alt="Adobe Premiere Pro" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
 
 <br />
+<br >
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexuqt&layout=compact&theme=graywhite&custom_title=most%20used:&langs_count=6)](https://github.com/alexuqt/github-readme-stats)
