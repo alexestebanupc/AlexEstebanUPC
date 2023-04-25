@@ -30,4 +30,4 @@ Network Enginnering & Aerospace Engineering at 📌UPC
 <br />
 <br >
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexuqt&layout=compact&theme=graywhite&custom_title=most%20used:&langs_count=6)](https://github.com/alexuqt/github-readme-stats)
+&emsp;&emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexuqt&layout=compact&theme=graywhite&custom_title=most%20used:&langs_count=6)](https://github.com/alexuqt/github-readme-stats)
